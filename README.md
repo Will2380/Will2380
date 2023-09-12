@@ -10,7 +10,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Cybersecurity](https://img.shields.io/badge/cybersecurity-%230175C2.svg?style=for-the-badge&logo=cybersecurity&logoColor=white) ![Networking](https://img.shields.io/badge/networking-%23323330.svg?style=for-the-badge&logo=networking&logoColor=white) ![Scripting](https://img.shields.io/badge/scripting-%230095D5.svg?style=for-the-badge&logo=scripting&logoColor=white) ![Automation](https://img.shields.io/badge/automation-%23ED8B00.svg?style=for-the-badge&logo=automation&logoColor=white) ![Troubleshooting](https://img.shields.io/badge/troubleshooting-%23430098.svg?style=for-the-badge&logo=troubleshooting&logoColor=white)
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-shibil-5350b61a3) [![Gmail](https://img.shields.io/badge/Gmail-%23FF0000.svg?logo=gmail&logoColor=white)](https://linkedin.com/in/mohammed-shibil-5350b61a3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-c-b0515a38/) [![Gmail](https://img.shields.io/badge/Gmail-%23FF0000.svg?logo=gmail&logoColor=white)](mailto:info@creelinc.com)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
